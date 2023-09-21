@@ -9,5 +9,5 @@ Features:
 - Fast and reliable: The model is optimized for speed and accuracy, making it a valuable tool for any Simpson enthusiast, researcher, or fan.
 
 
-Demo Link - https://huggingface.co/spaces/anshu-ravi/simpson-demo
+Demo Link - https://huggingface.co/spaces/anshu-ravi/simpson-demo  
 Dataset Source - https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset 
