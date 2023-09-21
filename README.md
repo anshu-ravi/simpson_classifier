@@ -7,3 +7,7 @@ Features:
 - Fine-tuned ResNet-50 model: We've taken a pre-trained ResNet-50 model and fine-tuned it on a dataset of 18 Simpson characters to ensure accurate and efficient classification.
 - Easy-to-use interface: Our user-friendly web interface allows users to upload an image effortlessly and receive instant character classification results.
 - Fast and reliable: The model is optimized for speed and accuracy, making it a valuable tool for any Simpson enthusiast, researcher, or fan.
+
+
+Demo Link - https://huggingface.co/spaces/anshu-ravi/simpson-demo
+Dataset Source - https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset 
